@@ -13,7 +13,7 @@
     "email": "github@tonysamperi.it",
     "url": "https://tonysamperi.github.io"
   },
-  "license": "SEE LICENCE IN LICENCE",
+  "license": "MIT",
   "module": "fesm2015/ngx-tonysamperi-dom.mjs",
   "es2020": "fesm2020/ngx-tonysamperi-dom.mjs",
   "esm2020": "esm2020/ngx-tonysamperi-dom.mjs",
